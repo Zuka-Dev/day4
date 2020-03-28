@@ -1,0 +1,12 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+}
+#joim{
+    position: relative;
+    top: 20%;
+    width: fit-content;
+}
